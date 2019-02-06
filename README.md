@@ -1,1 +1,27 @@
 # TurtleLetters
+A-complete
+B-lane
+C-ella
+D-ella
+E-garrett
+F-garrett
+G-ella
+H-garrett
+I-lane
+J-ella
+K-ella
+L-lane
+M-ella
+N-ellla
+O-lane
+P-lane
+Q-lane
+R-lane
+S-ella
+T-lane
+U-ella
+V-garrett
+W-garrett
+X-garrett
+Y-garrett
+Z-garrett
