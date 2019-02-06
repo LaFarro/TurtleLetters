@@ -3,7 +3,7 @@ A-complete
 B-lane
 C-ella
 D-ella
-E-garrett
+E-complete
 F-garrett
 G-ella
 H-garrett
