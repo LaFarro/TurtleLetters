@@ -6,7 +6,7 @@ D-ella
 E-complete
 F-complete
 G-ella
-H-garrett
+H-complete
 I-lane
 J-ella
 K-ella
