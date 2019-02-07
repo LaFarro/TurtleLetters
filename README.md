@@ -20,7 +20,7 @@ R-lane
 S-ella
 T-lane
 U-ella
-V-garrett
+V-complete
 W-garrett
 X-garrett
 Y-complete
