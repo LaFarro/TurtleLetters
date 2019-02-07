@@ -22,6 +22,6 @@ T-lane
 U-ella
 V-complete
 W-complete
-X-garrett
+X-complete
 Y-complete
 Z-complete
