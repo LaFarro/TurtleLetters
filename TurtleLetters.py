@@ -37,7 +37,30 @@ def turtleLetter(letter,tur):
         tur.fd(35)
         #tur.right(180)
     elif letter == "B":
-	    pass
+	tur.pu()
+        tur.fd(10)
+        tur.right(90)
+        tur.fd(10)
+        tur.pd()
+        tur.fd(40)
+        tur.left(90)
+        tur.fd(20)
+        tur.left(90)
+        tur.fd(20)
+        tur.left(90)
+        tur.fd(20)
+        tur.right(180)
+        tur.fd(20)
+        tur.left(90)
+        tur.fd(20)
+        tur.left(90)
+        tur.fd(20)
+        tur.pu()
+        tur.right(180)
+        tur.fd(30)
+        tur.left(90)
+        tur.fd(10)
+        tur.right(90)
     elif letter == "C":
 	    pass
     elif letter == "D":
@@ -109,29 +132,60 @@ def turtleLetter(letter,tur):
         tur.fd(15)
         tur.left(90)
     elif letter == "I":
-	    pass
+	tur.right(90)
+        tur.fd(50)
     elif letter == "J":
 	    pass
     elif letter == "K":
 	    pass
     elif letter == "L":
-	    pass
+	tur.right(90)
+        tur.fd(50)
+        tur.left(90)
+        tur.fd(20)
     elif letter == "M":
 	    pass
     elif letter == "N":
 	    pass
     elif letter == "O":
-	    pass
+	tur.circle(90,360)
     elif letter == "P":
-	    pass		
+	tur.right(90)
+        tur.fd(50)
+        tur.left(180)
+        tur.fd(30)
+        tur.right(90)
+        tur.circle(10,180)	
     elif letter == "Q":
-	    pass
+	tur.circle(90,360)
+        tur.pu()
+        tur.left(90)
+        tur.fd(50)
+        tur.right(100)
+        tur.pd()
+        tur.fd(100)
     elif letter == "R":
-	    pass
+	tur.right(90)
+        tur.fd(50)
+        tur.left(180)
+        tur.fd(30)
+        tur.right(90)
+        tur.circle(10,180)
+        tur.left(90)
+        tur.fd(20)
+        tur.left(40)
+        tur.fd(40)
     elif letter == "S":
 	    pass
     elif letter == "T":
-	    pass
+	tur.right(90)
+        tur.fd(50)
+        tur.left(180)
+        tur.fd(50)
+        tur.left(90)
+        tur.fd(20)
+        tur.left(180)
+        tur.fd(40)
     elif letter == "U":
 	    pass
     elif letter == "V":
